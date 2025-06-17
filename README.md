@@ -1,6 +1,6 @@
 # Xin chào, mình là Nguyễn Đức Vĩ
 
- Sinh viên năm 3 ngành Công nghệ Thông tin - PTIT
+ Sinh viên năm 3 ngành Công nghệ Thông tin
  Đam mê phát triển hệ thống back-end với Java & Spring Boot  
  Đang học thêm về front-end (Next.js, React)  
  Thích tìm hiểu công nghệ mới và thực hành qua dự án thực tế  

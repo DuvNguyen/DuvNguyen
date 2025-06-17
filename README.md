@@ -32,7 +32,7 @@
 
 Liên hệ: nducvi.information@gmail.com
 
-Top ngôn ngữ sử dụng nhiều:
+## Top ngôn ngữ sử dụng nhiều:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvNguyen)
 
 

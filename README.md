@@ -13,6 +13,11 @@
 ## 💼 Dự án tiêu biểu
 
 ### [Clockee - Hệ thống bán hàng đồng hồ trực tuyến](https://github.com/DuvNguyen/clockee)
+[![Docker image](https://github.com/DuvNguyen/clockee/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/ci-cd.yml)
+[![Dependabot Updates](https://github.com/DuvNguyen/clockee/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/dependabot/dependabot-updates)
+[![Testing](https://github.com/DuvNguyen/clockee/actions/workflows/verify-test.yml/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/verify-test.yml)
+[![Validate coding format](https://github.com/DuvNguyen/clockee/actions/workflows/format.yml/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/format.yml)
+
 🛠️ **Công nghệ sử dụng:**  
 - Java 17 + Spring Boot 3  
 - Next.js 15  

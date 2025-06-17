@@ -1,7 +1,7 @@
-# 👋 Xin chào! Tôi là Dương Nguyễn
+# 👋 Xin chào! Tôi là Đức Vĩ Nguyễn
 
-🎓 Sinh viên ngành Công nghệ Thông tin – HUTECH  
-💻 Đam mê phát triển phần mềm, đặc biệt là backend và hệ thống thương mại điện tử
+🎓 Sinh viên ngành Công nghệ Thông tin – PTIT  
+💻 Đam mê phát triển phần mềm, hệ thống
 
 ---
 

@@ -30,7 +30,7 @@
 
 ---
 
-📫 **Liên hệ:** [nducvi.information@gmail.com](mailto:nducvi.information@gmail.com)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvNguyen)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuvNguyen&show_icons=true)
+Liên hệ: nducvi.information@gmail.com  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvNguyen) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuvNguyen&show_icons=true)
+
 

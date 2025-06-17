@@ -30,7 +30,8 @@
 
 ---
 
-Liên hệ: nducvi.information@gmail.com
+## Liên hệ: 
+[email](mailto:nducvi.information@gmail.com) | [LinkedIn](https://linkedin.com/in/đức-vĩ-nguyễn-4b3880279)
 
 ## Top ngôn ngữ sử dụng nhiều:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvNguyen)

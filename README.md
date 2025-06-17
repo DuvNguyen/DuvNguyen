@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là Đức Vĩ Nguyễn
+# Xin chào! Tôi là Đức Vĩ Nguyễn
 
 🎓 Sinh viên ngành Công nghệ Thông tin – PTIT  
 💻 Đam mê phát triển phần mềm, hệ thống
@@ -24,6 +24,6 @@
 
 ---
 
-## 📫 Liên hệ
+## Liên hệ
 - Email: nducvi.information@gmail.com
 

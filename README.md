@@ -1,7 +1,7 @@
 #  Xin chào, mình là Nguyễn Đức Vĩ
 
 - Sinh viên năm 4 ngành Công nghệ Thông tin  
-- Đam mê phát triển hệ thống **back-end** với **Java & Spring Boot**  
+- Đam mê phát triển hệ thống **back-end** 
 - Đang học thêm về **front-end** (Next.js, React)  
 - Thích tìm hiểu công nghệ mới và thực hành qua dự án thực tế  
 
@@ -10,25 +10,8 @@
 - Nắm vững **DevOps căn bản**: Docker, CI/CD, GitHub Actions
 - Tham gia các **dự án thực tế** trong thời gian tới
 
-## Dự án tiêu biểu
-
-### [Clockee - Hệ thống bán hàng đồng hồ trực tuyến](https://github.com/DuvNguyen/clockee)
-[![Docker image](https://github.com/DuvNguyen/clockee/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/ci-cd.yml)
-[![Dependabot Updates](https://github.com/DuvNguyen/clockee/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/dependabot/dependabot-updates)
-[![Testing](https://github.com/DuvNguyen/clockee/actions/workflows/verify-test.yml/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/verify-test.yml)
-[![Validate coding format](https://github.com/DuvNguyen/clockee/actions/workflows/format.yml/badge.svg)](https://github.com/DuvNguyen/clockee/actions/workflows/format.yml)
-
-**Công nghệ sử dụng:**  
-- Java 17 + Spring Boot 3  
-- Next.js 15  
-- Redis, MSSQL, MailDev, JobRunr  
-- CI/CD: GitHub Actions + DockerHub  
-
-**Chức năng chính:**  
-- Quản lý bán hàng theo vai trò: User, Admin, Inventory, SysAdmin  
-- Hệ thống email thông báo, kiểm tra đơn hàng, quản lý kho, báo cáo doanh thu
-
----
+## My Portfolio:
+https://duvnguyen.github.io/ducvi-portfolio/
 
 ## Liên hệ: 
 [email](mailto:nducvi.information@gmail.com) | [LinkedIn](https://linkedin.com/in/đức-vĩ-nguyễn-4b3880279)

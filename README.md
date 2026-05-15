@@ -17,6 +17,6 @@ https://duvnguyen.github.io/ducvi-portfolio/
 [email](mailto:nducvi.information@gmail.com) | [LinkedIn](https://linkedin.com/in/đức-vĩ-nguyễn-4b3880279)
 
 ## Top ngôn ngữ sử dụng nhiều:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvNguyen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvNguyen&layout=compact)
 
 
